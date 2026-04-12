@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1288-remove-covered-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1288-remove-covered-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Greedy
 |  |
 | ------- |
