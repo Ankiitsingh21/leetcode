@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ankiitsingh21/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Ankiitsingh21/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
