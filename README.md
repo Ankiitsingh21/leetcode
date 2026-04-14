@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankiitsingh21/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ankiitsingh21/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ankiitsingh21/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
 | [1024-video-stitching](https://github.com/Ankiitsingh21/leetcode/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Ankiitsingh21/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Ankiitsingh21/leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
