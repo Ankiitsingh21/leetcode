@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankiitsingh21/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ankiitsingh21/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankiitsingh21/leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0343-integer-break) |
 ## Dynamic Programming
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ankiitsingh21/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ankiitsingh21/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0343-integer-break) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
