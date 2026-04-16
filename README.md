@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0343-integer-break) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
+| [0790-domino-and-tromino-tiling](https://github.com/Ankiitsingh21/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1024-video-stitching](https://github.com/Ankiitsingh21/leetcode/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Combinatorics
