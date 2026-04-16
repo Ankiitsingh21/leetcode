@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Ankiitsingh21/leetcode/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankiitsingh21/leetcode/tree/master/0790-domino-and-tromino-tiling) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ankiitsingh21/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Ankiitsingh21/leetcode/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Ankiitsingh21/leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
