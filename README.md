@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankiitsingh21/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1024-video-stitching](https://github.com/Ankiitsingh21/leetcode/tree/master/1024-video-stitching) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Ankiitsingh21/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 ## Combinatorics
