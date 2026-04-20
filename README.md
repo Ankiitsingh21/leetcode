@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Ankiitsingh21/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/Ankiitsingh21/leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankiitsingh21/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/Ankiitsingh21/leetcode/tree/master/0986-interval-list-intersections) |
