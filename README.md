@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Ankiitsingh21/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Ankiitsingh21/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
