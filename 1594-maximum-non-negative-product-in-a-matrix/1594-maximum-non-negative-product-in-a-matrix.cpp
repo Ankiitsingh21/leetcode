@@ -33,11 +33,49 @@ public:
 
         vector<vector<pair<long long,long long>>> dp(
     grid.size(),
-    vector<pair<long long,long long>>(grid[0].size(), {LLONG_MIN, LLONG_MIN})
+    vector<pair<long long,long long>>(grid[0].size(), {0, 0})
 );
-        auto res=solve(grid.size()-1,grid[0].size()-1,grid,dp);
-        if(res.first<0) return -1;
+        // auto res=solve(grid.size()-1,grid[0].size()-1,grid,dp);
+        // if(res.first<0) return -1;
 
-        return res.first%MOD;
+        // return res.first%MOD;
+
+        for(int r=0;r<grid.size();r++){
+            for(int c=0;c<grid[0].size();c++){
+                if(r==0 && c==0){
+                  dp[0][0]={grid[0][0],grid[0][0]};
+                }else{
+
+
+                    long long maxi = LLONG_MIN;
+                    long long mini = LLONG_MAX;
+                    if(r-1>=0){
+                        auto up=dp[r-1][c];
+
+                        long long a=up.first*grid[r][c];
+                        long long b=up.second*grid[r][c];
+
+
+                        maxi=max({maxi,a,b});
+                        mini=min({mini,a,b});
+                    }
+                    if(c-1>=0){
+                        auto left=dp[r][c-1];
+
+                        long long a=left.first*grid[r][c];
+                        long long b=left.second*grid[r][c]; 
+
+                        maxi=max({maxi,a,b});
+                        mini=min({mini,a,b});
+                    }
+                     dp[r][c]={maxi,mini};
+                }
+            }
+        }
+
+        return dp[grid.size()-1][grid[0].size()-1].first<0?-1:dp[grid.size()-1][grid[0].size()-1].first%MOD;
+
+
+
     }
 };
