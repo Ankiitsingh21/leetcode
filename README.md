@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankiitsingh21/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ankiitsingh21/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankiitsingh21/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankiitsingh21/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ankiitsingh21/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/0056-merge-intervals) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ankiitsingh21/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Sorting
