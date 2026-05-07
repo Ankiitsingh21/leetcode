@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Ankiitsingh21/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Ankiitsingh21/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0113-path-sum-ii) |
 ## Math
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/Ankiitsingh21/leetcode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0139-word-break) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ankiitsingh21/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ankiitsingh21/leetcode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ankiitsingh21/leetcode/tree/master/0268-missing-number) |
