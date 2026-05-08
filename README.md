@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Ankiitsingh21/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0113-path-sum-ii) |
+| [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ankiitsingh21/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankiitsingh21/leetcode/tree/master/0790-domino-and-tromino-tiling) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Ankiitsingh21/leetcode/tree/master/0477-total-hamming-distance) |
 | [0502-ipo](https://github.com/Ankiitsingh21/leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankiitsingh21/leetcode/tree/master/0983-minimum-cost-for-tickets) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankiitsingh21/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ankiitsingh21/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/Ankiitsingh21/leetcode/tree/master/0477-total-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankiitsingh21/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Ankiitsingh21/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
