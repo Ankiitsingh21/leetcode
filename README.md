@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Ankiitsingh21/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ankiitsingh21/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ankiitsingh21/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Matrix
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ankiitsingh21/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
