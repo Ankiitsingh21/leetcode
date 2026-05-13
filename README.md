@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2172-maximum-and-sum-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankiitsingh21/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Combinatorics
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2172-maximum-and-sum-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Ankiitsingh21/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
