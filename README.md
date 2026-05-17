@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2172-maximum-and-sum-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
+| [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Ankiitsingh21/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ankiitsingh21/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/2370-longest-ideal-subsequence) |
+| [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Counting
 |  |
 | ------- |
@@ -385,5 +389,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
