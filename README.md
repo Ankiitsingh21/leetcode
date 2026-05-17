@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/Ankiitsingh21/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Ankiitsingh21/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Ankiitsingh21/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
