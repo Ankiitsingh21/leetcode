@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankiitsingh21/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ankiitsingh21/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3169-count-days-without-meetings](https://github.com/Ankiitsingh21/leetcode/tree/master/3169-count-days-without-meetings) |
 ## Matrix
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3169-count-days-without-meetings](https://github.com/Ankiitsingh21/leetcode/tree/master/3169-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
