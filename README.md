@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Ankiitsingh21/leetcode/tree/master/1345-jump-game-iv) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Ankiitsingh21/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1345-jump-game-iv](https://github.com/Ankiitsingh21/leetcode/tree/master/1345-jump-game-iv) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ankiitsingh21/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1345-jump-game-iv](https://github.com/Ankiitsingh21/leetcode/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankiitsingh21/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
