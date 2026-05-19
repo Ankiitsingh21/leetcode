@@ -1,21 +1,19 @@
 class Solution {
 public:
-    int findMinArrowShots(vector<vector<int>>& intervals) {
-        int n=intervals.size();
-        sort(intervals.begin(),intervals.end(),[](auto &a,auto &b){
+    int findMinArrowShots(vector<vector<int>>& points) {
+        int n=points.size();
+        sort(points.begin(),points.end(),[](const auto &a,const auto &b){
             return a[1]<b[1];
         });
-        // vector<vector<int>> ans;
-        int groupEnd=intervals[0][1];
-        int count=1;
+
+        int cnt=1;
+        int groupEnd=points[0][1];
         for(int i=1;i<n;i++){
-           if( intervals[i][0]>groupEnd){
-            // ans.push_back(intervals[i]);
-            count++;
-            groupEnd=intervals[i][1];
-            // cout<<intervals[i][0]<<" "<<ans.back()[1]<<" ";
-           }
+            if(points[i][0]>groupEnd){
+                cnt++;
+                groupEnd=points[i][1];
+            }
         }
-        return count;
+        return cnt;
     }
 };
