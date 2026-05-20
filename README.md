@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Ankiitsingh21/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Ankiitsingh21/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2172-maximum-and-sum-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2172-maximum-and-sum-of-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2172-maximum-and-sum-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Ankiitsingh21/leetcode/tree/master/1094-car-pooling) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
