@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Ankiitsingh21/leetcode/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Ankiitsingh21/leetcode/tree/master/0477-total-hamming-distance) |
 | [0650-2-keys-keyboard](https://github.com/Ankiitsingh21/leetcode/tree/master/0650-2-keys-keyboard) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankiitsingh21/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Ankiitsingh21/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
