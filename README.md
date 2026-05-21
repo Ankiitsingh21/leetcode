@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Ankiitsingh21/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0464-can-i-win](https://github.com/Ankiitsingh21/leetcode/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Ankiitsingh21/leetcode/tree/master/0477-total-hamming-distance) |
+| [0507-perfect-number](https://github.com/Ankiitsingh21/leetcode/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/Ankiitsingh21/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
