@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0113-path-sum-ii) |
+| [0365-water-and-jug-problem](https://github.com/Ankiitsingh21/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankiitsingh21/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ankiitsingh21/leetcode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/Ankiitsingh21/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankiitsingh21/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/Ankiitsingh21/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Ankiitsingh21/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0464-can-i-win](https://github.com/Ankiitsingh21/leetcode/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Ankiitsingh21/leetcode/tree/master/0477-total-hamming-distance) |
