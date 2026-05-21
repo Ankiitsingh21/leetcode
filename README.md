@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ankiitsingh21/leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Ankiitsingh21/leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/Ankiitsingh21/leetcode/tree/master/0986-interval-list-intersections) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Ankiitsingh21/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Ankiitsingh21/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ankiitsingh21/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
