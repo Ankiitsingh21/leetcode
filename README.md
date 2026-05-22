@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/Ankiitsingh21/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankiitsingh21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ankiitsingh21/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1922-count-good-numbers](https://github.com/Ankiitsingh21/leetcode/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
