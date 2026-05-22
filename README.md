@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankiitsingh21/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ankiitsingh21/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ankiitsingh21/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ankiitsingh21/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ankiitsingh21/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ankiitsingh21/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
