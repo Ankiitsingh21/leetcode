@@ -7,16 +7,13 @@ public:
             n=-n;
         }
         double ans=1;
-        // for(long long i=1;i<=n;i++){
-        //     ans*=x;
-        // }
         while(n>0){
             if(n%2==1){
                 ans*=x;
                 n--;
             }else{
-                x*=x;
-                n/=2;
+                x=x*x;
+                n=n/2;
             }
         }
         return ans;
