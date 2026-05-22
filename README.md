@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ankiitsingh21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ankiitsingh21/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ankiitsingh21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ankiitsingh21/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Ankiitsingh21/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0055-jump-game) |
