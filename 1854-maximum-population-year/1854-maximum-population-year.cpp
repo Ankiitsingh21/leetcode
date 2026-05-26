@@ -1,33 +1,22 @@
 class Solution {
-    void changee(vector<int>& arr, int l, int r, int n, int change) {
-        arr[l] += change;
-        if (r + 1 < n) {
-            arr[r + 1] -= change;
-        }
-    }
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-       int base = 1950;
-        int n = 101; // 2050 - 1950 + 1
-
-        vector<int> diff(n, 0);
-
-        for (int i = 0; i < logs.size(); i++) {
-            int l = logs[i][0] - base;        // birth
-            int r = logs[i][1] - 1 - base;    // death - 1 (inclusive range)
-            changee(diff, l, r, n, 1);
+        vector<pair<int,int>> eve;
+        for(int i=0;i<logs.size();i++){
+            eve.push_back({logs[i][0],1});
+            eve.push_back({logs[i][1],-1});
         }
-
-        int curr = 0, maxPop = 0, ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            curr += diff[i];
-            if (curr > maxPop) {
-                maxPop = curr;
-                ans = i;
+        sort(eve.begin(),eve.end());
+        int curr=0;
+        int maxi=0;
+        int yr=0;
+        for(auto &e:eve){
+            curr+=e.second;
+            if(curr>maxi){
+                maxi=curr;
+                yr=e.first;
             }
         }
-
-        return ans + base;
+        return yr;
     }
 };
