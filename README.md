@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankiitsingh21/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Ankiitsingh21/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankiitsingh21/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Ankiitsingh21/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Ankiitsingh21/leetcode/tree/master/1345-jump-game-iv) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ankiitsingh21/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankiitsingh21/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Ankiitsingh21/leetcode/tree/master/1626-best-team-with-no-conflicts) |
