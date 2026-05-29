@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ankiitsingh21/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0935-knight-dialer](https://github.com/Ankiitsingh21/leetcode/tree/master/0935-knight-dialer) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankiitsingh21/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/Ankiitsingh21/leetcode/tree/master/1014-best-sightseeing-pair) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankiitsingh21/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/Ankiitsingh21/leetcode/tree/master/0986-interval-list-intersections) |
 | [1014-best-sightseeing-pair](https://github.com/Ankiitsingh21/leetcode/tree/master/1014-best-sightseeing-pair) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Ankiitsingh21/leetcode/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1125-smallest-sufficient-team](https://github.com/Ankiitsingh21/leetcode/tree/master/1125-smallest-sufficient-team) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ankiitsingh21/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankiitsingh21/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
