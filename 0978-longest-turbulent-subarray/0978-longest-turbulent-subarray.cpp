@@ -19,19 +19,6 @@ class Solution {
         }
         return 0;
     }
-    // int slideSolve(int index,vector<int> &arr,int sign){
-    //     if(index==arr.size()) return 0;
-
-    //     int l=0,r=0;
-    //     int ans=1;
-    //     while(r<arr.size()){
-    //         while(l)
-    //         ans=max(ans,r-l+1);
-    //         r++;
-    //     }
-
-    //     return ans;
-    // }
 
 public:
     int maxTurbulenceSize(vector<int>& arr) {
@@ -46,13 +33,12 @@ public:
         int l = 0, r = 1;
         int ans = 1;
         while (r < arr.size()) {
-            int curr = arr[r] - arr[r - 1];
 
+            long long curr = arr[r] - arr[r - 1];
             if (curr == 0) {
                 l = r;
             } else if (r == arr.size() - 1 ||
-                       (long long)curr * (arr[r + 1] - arr[r]) >= 0) {
-
+                       curr * (arr[r+1] - arr[r]) >= 0) {
                 ans = max(ans, r - l + 1);
                 l = r;
             }
