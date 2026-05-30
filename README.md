@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0935-knight-dialer](https://github.com/Ankiitsingh21/leetcode/tree/master/0935-knight-dialer) |
+| [0978-longest-turbulent-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankiitsingh21/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/Ankiitsingh21/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/Ankiitsingh21/leetcode/tree/master/1024-video-stitching) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0978-longest-turbulent-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankiitsingh21/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/Ankiitsingh21/leetcode/tree/master/0986-interval-list-intersections) |
 | [1014-best-sightseeing-pair](https://github.com/Ankiitsingh21/leetcode/tree/master/1014-best-sightseeing-pair) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankiitsingh21/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0978-longest-turbulent-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
