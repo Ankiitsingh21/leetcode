@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Ankiitsingh21/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Ankiitsingh21/leetcode/tree/master/0125-valid-palindrome) |
@@ -550,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
