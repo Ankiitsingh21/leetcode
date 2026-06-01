@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankiitsingh21/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2172-maximum-and-sum-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ankiitsingh21/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
