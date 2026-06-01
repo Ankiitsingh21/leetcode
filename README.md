@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/Ankiitsingh21/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ankiitsingh21/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankiitsingh21/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ankiitsingh21/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ankiitsingh21/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Ankiitsingh21/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/2370-longest-ideal-subsequence) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ankiitsingh21/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Bitmask
