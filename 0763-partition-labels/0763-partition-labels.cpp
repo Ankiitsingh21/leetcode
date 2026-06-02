@@ -1,26 +1,22 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        vector<int> ans;
-        vector<int> mpp(26);
+        map<int,int> mpp;
         for(int i=0;i<s.size();i++){
-            mpp[s[i]-'a']=i;
+            char c=s[i];
+            mpp[c-'a']=i;
         }
 
-        int start=0 ,end=0;
-        // cout<<maxi<<" ";
+        vector<int> ans;
+        int end=0;
+        int start=0;
         for(int i=0;i<s.size();i++){
             end=max(end,mpp[s[i]-'a']);
-            if(i==end){
-                // cout<<i<<" ";
+            if(end==i){
                 ans.push_back(end-start+1);
                 start=i+1;
-                // maxi=mpp[s[i]-'a'];
-                // cout<<maxi<<" ";
             }
-
         }
-
         return ans;
     }
 };
