@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
 | [3169-count-days-without-meetings](https://github.com/Ankiitsingh21/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3169-count-days-without-meetings](https://github.com/Ankiitsingh21/leetcode/tree/master/3169-count-days-without-meetings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Ankiitsingh21/leetcode/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankiitsingh21/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sweep Line
 |  |
 | ------- |
