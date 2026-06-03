@@ -1,27 +1,22 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& intervals) {
-        int n=intervals.size();
-        vector<int> start;
-        vector<int> end;
-        for(int i=0;i<n;i++){
-            start.push_back(intervals[i][0]);
-            end.push_back(intervals[i][1]);
+        vector<pair<int, int>> eve;
+        for (int i = 0; i < intervals.size(); i++) {
+            int s = intervals[i][0];
+            int e = intervals[i][1];
+            // if(s==e) continue;
+            // cout<<s<<' '<<e<<" ";
+            eve.push_back({s, 1});
+            eve.push_back({e+1, -1});
         }
-        sort(start.begin(),start.end());
-        sort(end.begin(),end.end());
-        int i=0,j=0;
-        int cnt=0;
-        int ans=0;
-        while(i<n && j<n){
-            if(start[i]<=end[j]){
-                cnt++;
-                i++;
-            }else{
-                cnt--;
-                j++;
-            }
-            ans=max(ans,cnt);
+        // if(eve.size()==0) return ;
+        sort(eve.begin(), eve.end());
+        int curr = 0;
+        int ans = 1;
+        for (int i = 0; i < eve.size(); i++) {
+            curr += eve[i].second;
+            ans = max(ans, curr);
         }
         return ans;
     }
