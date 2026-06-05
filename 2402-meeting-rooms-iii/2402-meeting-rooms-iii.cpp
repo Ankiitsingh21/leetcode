@@ -1,47 +1,44 @@
 class Solution {
 public:
-    int mostBooked(int n, vector<vector<int>>& nums) {
-        sort(nums.begin(), nums.end(), [](const vector<int>& a, const vector<int>& b){
-            return a[0] < b[0];
-        });
+    int mostBooked(int n, vector<vector<int>>& meetings) {
+        sort(meetings.begin(), meetings.end());
         priority_queue<int,vector<int>,greater<int>> fr;
-        priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<pair<long long,int>>> pq;
-        // map<int,int> mpp;
-        vector<int> mpp(n,0);
-        for(int i=0;i<n;i++){
-            // mpp[i]=0;
+        for (int i = 0; i < n; i++) {
             fr.push(i);
         }
-        for(int i=0;i<nums.size();i++){
-            while(!pq.empty() && pq.top().first<=nums[i][0]){
-                auto [end,room] = pq.top();
-                pq.pop();
-                fr.push(room);
+        map<int, int> mpp;
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>,
+                       greater<pair<long long, int>>>
+            br;
+        for (int i = 0; i < meetings.size(); i++) {
+            int start = meetings[i][0];
+            int end = meetings[i][1];
+            while (!br.empty() && br.top().first <= start) {
+                fr.push(br.top().second);
+                br.pop();
             }
-            if(!fr.empty()){
-                int room=fr.top();
+            if (!fr.empty()) {
+                mpp[fr.top()]++;
+                br.push({end, fr.top()});
                 fr.pop();
-                mpp[room]++;
-                pq.push({nums[i][1], room});
-            }else{
-                auto [end,room] = pq.top();
-                pq.pop();
-                mpp[room]++;
-                int duration = nums[i][1] - nums[i][0];
-                pq.push({end + duration, room});
+            } else {
+                int nearestR = br.top().second;
+                mpp[nearestR]++;
+                long long diff = br.top().first - start;
+                br.pop();
+                br.push({(long long) end + diff, nearestR});
             }
         }
-        int ans = 0;
-
-        for(int i = 1; i < n; i++){
-            if(mpp[i] > mpp[ans]){
-                ans = i;
+        int ans = INT_MIN;
+        int maxi = INT_MIN;
+        for (auto it : mpp) {
+            // cout<<it.first<<" "<<it.second<<" "<<endl;
+            if (it.second > maxi) {
+                ans = it.first;
+                maxi = it.second;
             }
+            // ans=max(ans,it.second);
         }
-        
         return ans;
-        
-        // return ans;
-        // return pq.top().second;
     }
 };
