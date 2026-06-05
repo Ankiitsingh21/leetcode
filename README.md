@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ankiitsingh21/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankiitsingh21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ankiitsingh21/leetcode/tree/master/0048-rotate-image) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ankiitsingh21/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Ankiitsingh21/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Ankiitsingh21/leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/0647-palindromic-substrings) |
