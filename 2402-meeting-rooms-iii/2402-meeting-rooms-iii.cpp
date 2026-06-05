@@ -6,7 +6,7 @@ public:
         for (int i = 0; i < n; i++) {
             fr.push(i);
         }
-        map<int, int> mpp;
+        vector<int> mpp(n,0);
         priority_queue<pair<long long, int>, vector<pair<long long, int>>,
                        greater<pair<long long, int>>>
             br;
@@ -29,15 +29,11 @@ public:
                 br.push({(long long) end + diff, nearestR});
             }
         }
-        int ans = INT_MIN;
-        int maxi = INT_MIN;
-        for (auto it : mpp) {
-            // cout<<it.first<<" "<<it.second<<" "<<endl;
-            if (it.second > maxi) {
-                ans = it.first;
-                maxi = it.second;
+        int ans=0;
+        for(int i=1;i<n;i++){
+            if(mpp[i]>mpp[ans]){
+                ans=i;
             }
-            // ans=max(ans,it.second);
         }
         return ans;
     }
