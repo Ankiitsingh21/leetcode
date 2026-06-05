@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankiitsingh21/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2172-maximum-and-sum-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2172-maximum-and-sum-of-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ankiitsingh21/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Bitmask
@@ -558,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1854-maximum-population-year](https://github.com/Ankiitsingh21/leetcode/tree/master/1854-maximum-population-year) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Number Theory
