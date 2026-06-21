@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankiitsingh21/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Ankiitsingh21/leetcode/tree/master/1840-maximum-building-height) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Ankiitsingh21/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/Ankiitsingh21/leetcode/tree/master/1854-maximum-population-year) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/Ankiitsingh21/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Ankiitsingh21/leetcode/tree/master/1840-maximum-building-height) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Ankiitsingh21/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/Ankiitsingh21/leetcode/tree/master/1024-video-stitching) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ankiitsingh21/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -651,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ankiitsingh21/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
