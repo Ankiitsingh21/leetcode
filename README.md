@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Ankiitsingh21/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2370-longest-ideal-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ankiitsingh21/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Ankiitsingh21/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Ankiitsingh21/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2370-longest-ideal-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankiitsingh21/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1854-maximum-population-year](https://github.com/Ankiitsingh21/leetcode/tree/master/1854-maximum-population-year) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Ankiitsingh21/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Memoization
 |  |
 | ------- |
