@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2370-longest-ideal-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankiitsingh21/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Combinatorics
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankiitsingh21/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
