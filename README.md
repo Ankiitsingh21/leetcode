@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Ankiitsingh21/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankiitsingh21/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Ankiitsingh21/leetcode/tree/master/1854-maximum-population-year) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ankiitsingh21/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Memoization
 |  |
 | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Ankiitsingh21/leetcode/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/Ankiitsingh21/leetcode/tree/master/0372-super-pow) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Ankiitsingh21/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -652,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -668,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
