@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ankiitsingh21/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankiitsingh21/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
 | [3169-count-days-without-meetings](https://github.com/Ankiitsingh21/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankiitsingh21/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankiitsingh21/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Ankiitsingh21/leetcode/tree/master/0204-count-primes) |
 | [0829-consecutive-numbers-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/0829-consecutive-numbers-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankiitsingh21/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/Ankiitsingh21/leetcode/tree/master/3765-complete-prime-number) |
 ## Ordered Set
