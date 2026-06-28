@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Ankiitsingh21/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/Ankiitsingh21/leetcode/tree/master/1696-jump-game-vi) |
+| [1701-average-waiting-time](https://github.com/Ankiitsingh21/leetcode/tree/master/1701-average-waiting-time) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ankiitsingh21/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Ankiitsingh21/leetcode/tree/master/1094-car-pooling) |
+| [1701-average-waiting-time](https://github.com/Ankiitsingh21/leetcode/tree/master/1701-average-waiting-time) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ankiitsingh21/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
