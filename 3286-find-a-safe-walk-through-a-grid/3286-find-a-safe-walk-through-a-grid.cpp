@@ -54,19 +54,19 @@ public:
         // vis[0][0] = true;
         // vector<vector<int>> best(arr.size(), vector<int>(arr[0].size(), -1));
         // return solve(0, 0, arr, health, vis, best);
-        queue<tuple<int, int, int>> q;
+        priority_queue<tuple<int, int, int>> q;
         // vis[0, 0] = true;
         vector<vector<int>> best(arr.size(), vector<int>(arr[0].size(), -1));
         if (arr[0][0] == 1)
             h = h - 1;
         if (h <= 0)
             return false;
-        q.push({0, 0, h});
+        q.push({h,0, 0});
         best[0][0] = h;
         int nrow[4] = {-1, 0, 1, 0};
         int ncol[4] = {0, 1, 0, -1};
         while (!q.empty()) {
-            auto [r, c, health] = q.front();
+            auto [health, r, c] = q.top();
             q.pop();
             if (r == arr.size() - 1 && c == arr[0].size() - 1)
                 return true;
@@ -84,7 +84,7 @@ public:
                         continue;
 
                     best[row][col] = newHealth;
-                    q.push({row, col, newHealth});
+                    q.push({newHealth,row, col});
                 }
             }
         }
