@@ -1,40 +1,4 @@
 class Solution {
-    bool bfs(int h, vector<vector<int>>& arr) {
-        queue<tuple<int,int,int>> q;
-        // vis[0, 0] = true;
-        vector<vector<int>> best(arr.size(), vector<int>(arr[0].size(), -1));
-        if (arr[0][0] == 1)
-            h = h - 1;
-            if(h<=0) return false;
-        q.push({0, 0, h});
-        best[0][0] = h;
-        int nrow[4] = {-1, 0, 1, 0};
-        int ncol[4] = {0, 1, 0, -1};
-        while (!q.empty()) {
-            auto [r, c, health] = q.front();
-            q.pop();
-            if (r == arr.size() - 1 && c == arr[0].size() - 1)
-                return true;
-            for (int i = 0; i < 4; i++) {
-                int row = r + nrow[i];
-                int col = c + ncol[i];
-                if (row >= 0 && row < arr.size() && col >= 0 &&
-                    col < arr[0].size()) {
-                    // vis[row][col]=1;
-                    int newHealth = health - arr[row][col];
-                    if (newHealth <= 0)
-                        continue;
-
-                    if (newHealth <= best[row][col])
-                        continue;
-
-                    best[row][col] = newHealth;
-                    q.push({row, col, newHealth});
-                }
-            }
-        }
-        return false;
-    }
     bool solve(int r, int c, vector<vector<int>>& arr, int health,
                vector<vector<bool>>& vis, vector<vector<int>>& best) {
 
@@ -81,15 +45,49 @@ class Solution {
     }
 
 public:
-    bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        // vector<vector<bool>> vis(grid.size(),
-        //                          vector<bool>(grid[0].size(), false));
-        // if (grid[0][0] == 1)
+    bool findSafeWalk(vector<vector<int>>& arr, int h) {
+        // vector<vector<bool>> vis(arr.size(),
+        //                          vector<bool>(arr[0].size(), false));
+        // if (arr[0][0] == 1)
         //     health = health - 1;
 
         // vis[0][0] = true;
-        // vector<vector<int>> best(grid.size(), vector<int>(grid[0].size(), -1));
-        // return solve(0, 0, grid, health, vis, best);
-        return bfs(health,grid);
+        // vector<vector<int>> best(arr.size(), vector<int>(arr[0].size(), -1));
+        // return solve(0, 0, arr, health, vis, best);
+        queue<tuple<int, int, int>> q;
+        // vis[0, 0] = true;
+        vector<vector<int>> best(arr.size(), vector<int>(arr[0].size(), -1));
+        if (arr[0][0] == 1)
+            h = h - 1;
+        if (h <= 0)
+            return false;
+        q.push({0, 0, h});
+        best[0][0] = h;
+        int nrow[4] = {-1, 0, 1, 0};
+        int ncol[4] = {0, 1, 0, -1};
+        while (!q.empty()) {
+            auto [r, c, health] = q.front();
+            q.pop();
+            if (r == arr.size() - 1 && c == arr[0].size() - 1)
+                return true;
+            for (int i = 0; i < 4; i++) {
+                int row = r + nrow[i];
+                int col = c + ncol[i];
+                if (row >= 0 && row < arr.size() && col >= 0 &&
+                    col < arr[0].size()) {
+                    // vis[row][col]=1;
+                    int newHealth = health - arr[row][col];
+                    if (newHealth <= 0)
+                        continue;
+
+                    if (newHealth <= best[row][col])
+                        continue;
+
+                    best[row][col] = newHealth;
+                    q.push({row, col, newHealth});
+                }
+            }
+        }
+        return false;
     }
 };
