@@ -26,8 +26,8 @@ public:
         sort(arr.begin(), arr.end());
         vector<int> ans(n, 0);
         for (auto& [val, id] : arr) {
-            update(bits, 1, id+1, n);
-            ans[id] = query(bits,n) - query(bits,id + 1);
+            update(bits, 1, id + 1, n);
+            ans[id] = query(bits, n) - query(bits, id + 1);
         }
         return ans;
     }
