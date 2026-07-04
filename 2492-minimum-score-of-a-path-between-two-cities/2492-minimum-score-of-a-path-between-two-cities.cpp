@@ -5,14 +5,14 @@ public:
         
         queue<int> q;
         q.push(1);
-        vis[1]=true;
+        // vis[1]=true;
         while(!q.empty()){
             int node=q.front();
             q.pop();
+            vis[node]=1;
             for(auto &[next,wt]:adj[node]){
                 ans=min(ans,wt);
                 if(!vis[next]){
-                    vis[next]=1;
                     q.push(next);
                 }
             }
