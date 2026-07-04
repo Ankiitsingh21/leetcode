@@ -1,6 +1,24 @@
 class Solution {
 public:
     int ans = INT_MAX;
+    void bfs(vector<vector<pair<int, int>>>& adj, vector<int>& vis){
+        
+        queue<int> q;
+        q.push(1);
+        vis[1]=true;
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            for(auto &[next,wt]:adj[node]){
+                ans=min(ans,wt);
+                if(!vis[next]){
+                    vis[next]=1;
+                    q.push(next);
+                }
+            }
+        }
+        return ;
+    }
 
     void dfs(int node, vector<vector<pair<int, int>>>& adj, vector<int>& vis) {
         vis[node] = 1;
@@ -28,7 +46,7 @@ public:
 
         vector<int> vis(n + 1, 0);
 
-        dfs(1, adj, vis);
+        bfs(adj, vis);
 
         return ans;
     }
