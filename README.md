@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ankiitsingh21/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ankiitsingh21/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0658-find-k-closest-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Ankiitsingh21/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankiitsingh21/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ankiitsingh21/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ankiitsingh21/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Ankiitsingh21/leetcode/tree/master/0757-set-intersection-size-at-least-two) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Ankiitsingh21/leetcode/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ankiitsingh21/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Ankiitsingh21/leetcode/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankiitsingh21/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ankiitsingh21/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Ankiitsingh21/leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/Ankiitsingh21/leetcode/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ankiitsingh21/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankiitsingh21/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/Ankiitsingh21/leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/Ankiitsingh21/leetcode/tree/master/1094-car-pooling) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
@@ -603,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankiitsingh21/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankiitsingh21/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
