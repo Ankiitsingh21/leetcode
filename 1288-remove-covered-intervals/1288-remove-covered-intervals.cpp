@@ -9,13 +9,13 @@ public:
             return a[0]<b[0];
         });
         // vector<vector<int>> ans;
-        pair<int,int> pq;
+        int pq;
         int cnt=0;
         for(int i=0;i<n;i++){
-            if(cnt==0 ||  intervals[i][1]> pq.second){
+            if(cnt==0 ||  intervals[i][1]> pq){
                 // ans.push_back(intervals[i]);
                 cnt++;
-                pq={intervals[i][0],intervals[i][1]};
+                pq=intervals[i][1];
             }
         }
         return cnt;
