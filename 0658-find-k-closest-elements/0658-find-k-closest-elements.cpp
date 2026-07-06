@@ -22,7 +22,7 @@ class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         int start = high(arr, x);
-        cout<<start<<" ";
+        // cout<<start<<" ";
         vector<int> ans;
         if (start == 0) {
             for (int i = 0; i < k; i++) {
@@ -45,7 +45,7 @@ public:
             int b = arr[r];
             int diff1 = abs(x - a);
             int diff2 = abs(x - b);
-            cout<<a<<" "<<b<<" "<<diff1<<" "<<diff2<<" "<<endl;
+            // cout<<a<<" "<<b<<" "<<diff1<<" "<<diff2<<" "<<endl;
             if (diff1 == diff2) {
                 ans.push_back(a);
                 l--;
