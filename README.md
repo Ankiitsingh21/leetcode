@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankiitsingh21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Ankiitsingh21/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Ankiitsingh21/leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
