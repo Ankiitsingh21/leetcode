@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ankiitsingh21/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Ankiitsingh21/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Ankiitsingh21/leetcode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Ankiitsingh21/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ankiitsingh21/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ankiitsingh21/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ankiitsingh21/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0443-string-compression](https://github.com/Ankiitsingh21/leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Ankiitsingh21/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
