@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankiitsingh21/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ankiitsingh21/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/Ankiitsingh21/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Ankiitsingh21/leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankiitsingh21/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankiitsingh21/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ankiitsingh21/leetcode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/Ankiitsingh21/leetcode/tree/master/3169-count-days-without-meetings) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankiitsingh21/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankiitsingh21/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankiitsingh21/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Ankiitsingh21/leetcode/tree/master/1854-maximum-population-year) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ankiitsingh21/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Memoization
 |  |
@@ -708,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/Ankiitsingh21/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -719,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Ankiitsingh21/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankiitsingh21/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankiitsingh21/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Ankiitsingh21/leetcode/tree/master/3765-complete-prime-number) |
