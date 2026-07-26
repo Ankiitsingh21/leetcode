@@ -51,7 +51,7 @@ public:
             grid.size(),
             vector<vector<int>>(grid[0].size(), vector<int>(k + 1, 0)));
         queue<tuple<int, int, int, int>> q;
-       q.push({0,0,k,0});
+       q.emplace(0,0,k,0);
         vis[0][0][k] = 1;
         // int ans=INT_MAX;
         while (!q.empty()) {
@@ -66,7 +66,7 @@ public:
                     ncol < grid[0].size() && !vis[nrow][ncol][rem] &&
                     grid[nrow][ncol] == 0) {
                     vis[nrow][ncol][rem] = 1;
-                    q.push({nrow,ncol,rem,steps+1});
+                    q.emplace(nrow,ncol,rem,steps+1);
                     // vis[nrow][ncol][rem] = 0;
 
                     // vis[nrow]
@@ -74,7 +74,7 @@ public:
                            ncol < grid[0].size() && 
                            grid[nrow][ncol] == 1 && rem > 0 && !vis[nrow][ncol][rem-1]) {
                     vis[nrow][ncol][rem-1] = 1;
-                    q.push({nrow,ncol,rem-1,steps+1});
+                    q.emplace(nrow,ncol,rem-1,steps+1);
                     // q.push({{nrow,ncol},rem-1});
                     // vis[nrow][ncol][rem-1] = 0;
                 }
