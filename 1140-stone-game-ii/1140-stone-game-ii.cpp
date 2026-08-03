@@ -20,7 +20,7 @@ class Solution {
             for (int X = 1; X <= 2 * M && index + X <= nums.size(); X++) {
                 ans = min(ans, solve(index + X, max(M, X), !turn, nums, dp));
             }
-            return  dp[index][M][turn]= ans;
+            return dp[index][M][turn] = ans;
         }
     }
 
@@ -28,7 +28,7 @@ public:
     int stoneGameII(vector<int>& piles) {
         vector<vector<vector<int>>> dp(
             piles.size(),
-            vector<vector<int>>(piles.size()+1, vector<int>(2, INT_MIN)));
+            vector<vector<int>>(piles.size() + 1, vector<int>(2, INT_MIN)));
         return solve(0, 1, 0, piles, dp);
     }
 };
