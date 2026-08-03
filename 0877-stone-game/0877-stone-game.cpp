@@ -20,7 +20,8 @@ class Solution {
 public:
     bool stoneGame(vector<int>& piles) {
         int n = piles.size();
-        vector<vector<int>> arr(n, vector<int>(n, INT_MIN));
-        return solve(0, n - 1, piles, arr, 0) > 0;
+        // vector<vector<int>> arr(n, vector<int>(n, INT_MIN));
+        // return solve(0, n - 1, piles, arr, 0) > 0;
+        return true;
     }
 };
