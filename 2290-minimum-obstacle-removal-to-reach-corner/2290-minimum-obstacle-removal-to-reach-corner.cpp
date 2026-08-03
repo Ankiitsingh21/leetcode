@@ -23,13 +23,11 @@ public:
                     int newDist = cost + grid[nrow][ncol];
                     if (newDist < dist[nrow][ncol]) {
                         dist[nrow][ncol] = newDist;
-                        // if(grid[nrow][ncol]==0){
                         pq.push({newDist, {nrow, ncol}});
                     }
-                    // }
                 }
             }
         }
-        return dist[n-1][m-1];
+        return dist[n - 1][m - 1];
     }
 };
