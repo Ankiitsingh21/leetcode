@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankiitsingh21/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Ankiitsingh21/leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/Ankiitsingh21/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Ankiitsingh21/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ankiitsingh21/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Ankiitsingh21/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ankiitsingh21/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Ankiitsingh21/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/Ankiitsingh21/leetcode/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ankiitsingh21/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Ankiitsingh21/leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Ankiitsingh21/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
