@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/Ankiitsingh21/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankiitsingh21/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/Ankiitsingh21/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankiitsingh21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankiitsingh21/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0978-longest-turbulent-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankiitsingh21/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0986-interval-list-intersections](https://github.com/Ankiitsingh21/leetcode/tree/master/0986-interval-list-intersections) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankiitsingh21/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0778-swim-in-rising-water](https://github.com/Ankiitsingh21/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankiitsingh21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankiitsingh21/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -847,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ankiitsingh21/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankiitsingh21/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankiitsingh21/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankiitsingh21/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
