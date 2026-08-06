@@ -2,25 +2,22 @@ class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
         vector<int> ans;
-        string a = to_string(low);
-        string b = to_string(high);
-        int l = a.size();
-        int h = b.size();
-        for (int i = l; i < h + 1; i++) {
-            for (int j = 1; j < 9; j++) {
-                if (i + j > 10)
-                    break;
-                int num = j;
-                int prev = j;
-                for (int k = 0; k < i - 1; k++) {
-                    num *= 10;
-                    prev++;
-                    num += prev;
-                }
+        deque<int> q;
+        for (int i = 1; i < 10; i++) {
+            q.push_back(i);
+        }
+        while (!q.empty()) {
+            int n = q.front();
+            q.pop_front();
+            if (n > high)
+                continue;
 
-                if (num >= low && num <= high) {
-                    ans.push_back(num);
-                }
+            if (n >= low && n <= high) {
+                ans.push_back(n);
+            }
+            int ones = n % 10;
+            if (ones < 9) {
+                q.push_back(n * 10 + (ones + 1));
             }
         }
         return ans;
