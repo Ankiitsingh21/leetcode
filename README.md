@@ -884,4 +884,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Ankiitsingh21/leetcode/tree/master/3620-network-recovery-pathways) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
