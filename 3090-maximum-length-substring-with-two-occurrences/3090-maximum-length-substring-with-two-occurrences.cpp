@@ -2,12 +2,13 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int l = 0, r = 0;
-        map<char, int> mpp;
+        // map<char, int> fre  q;
+        vector<int> freq(256);
         int ans = INT_MIN;
         while (r < s.size()) {
-            mpp[s[r]]++;
-            while (mpp[s[r]] > 2) {
-                mpp[s[l]]--;
+            freq[s[r]]++;
+            while (freq[s[r]] > 2) {
+                freq[s[l]]--;
                 l++;
             }
             ans = max(ans, r - l + 1);
