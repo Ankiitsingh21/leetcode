@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int l = 0, r = 0;
-        // map<char, int> fre  q;
+        // map<char, int> map;
         vector<int> freq(256);
         int ans = INT_MIN;
         while (r < s.size()) {
