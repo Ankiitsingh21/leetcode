@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Ankiitsingh21/leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/Ankiitsingh21/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankiitsingh21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Ankiitsingh21/leetcode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Ankiitsingh21/leetcode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankiitsingh21/leetcode/tree/master/2140-solving-questions-with-brainpower) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankiitsingh21/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ankiitsingh21/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankiitsingh21/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/Ankiitsingh21/leetcode/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ankiitsingh21/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -903,8 +908,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
