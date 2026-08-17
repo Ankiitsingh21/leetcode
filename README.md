@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankiitsingh21/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Ankiitsingh21/leetcode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Ankiitsingh21/leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/Ankiitsingh21/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Ankiitsingh21/leetcode/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Ankiitsingh21/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ankiitsingh21/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Ankiitsingh21/leetcode/tree/master/1626-best-team-with-no-conflicts) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ankiitsingh21/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ankiitsingh21/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Ankiitsingh21/leetcode/tree/master/1563-stone-game-v) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ankiitsingh21/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankiitsingh21/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Ankiitsingh21/leetcode/tree/master/1626-best-team-with-no-conflicts) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Ankiitsingh21/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
