@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Ankiitsingh21/leetcode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Ankiitsingh21/leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/Ankiitsingh21/leetcode/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Ankiitsingh21/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankiitsingh21/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Ankiitsingh21/leetcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankiitsingh21/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankiitsingh21/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Ankiitsingh21/leetcode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Ankiitsingh21/leetcode/tree/master/2126-destroying-asteroids) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankiitsingh21/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ankiitsingh21/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ankiitsingh21/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Ankiitsingh21/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankiitsingh21/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Ankiitsingh21/leetcode/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Ankiitsingh21/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ankiitsingh21/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
