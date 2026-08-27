@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankiitsingh21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankiitsingh21/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankiitsingh21/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankiitsingh21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankiitsingh21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ankiitsingh21/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ankiitsingh21/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankiitsingh21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Memoization
 |  |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankiitsingh21/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankiitsingh21/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/Ankiitsingh21/leetcode/tree/master/3765-complete-prime-number) |
 ## Ordered Set
