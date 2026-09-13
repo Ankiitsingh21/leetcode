@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Ankiitsingh21/leetcode/tree/master/0740-delete-and-earn) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Ankiitsingh21/leetcode/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/Ankiitsingh21/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Ankiitsingh21/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankiitsingh21/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Ankiitsingh21/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0778-swim-in-rising-water](https://github.com/Ankiitsingh21/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Ankiitsingh21/leetcode/tree/master/0835-image-overlap) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankiitsingh21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
