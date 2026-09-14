@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Ankiitsingh21/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0738-monotone-increasing-digits](https://github.com/Ankiitsingh21/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/0829-consecutive-numbers-sum) |
+| [0836-rectangle-overlap](https://github.com/Ankiitsingh21/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ankiitsingh21/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1140-stone-game-ii) |
@@ -982,4 +983,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Ankiitsingh21/leetcode/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ankiitsingh21/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
