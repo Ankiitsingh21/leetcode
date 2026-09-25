@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankiitsingh21/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Ankiitsingh21/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [1096-brace-expansion-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ankiitsingh21/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/1306-jump-game-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ankiitsingh21/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0113-path-sum-ii) |
 | [0526-beautiful-arrangement](https://github.com/Ankiitsingh21/leetcode/tree/master/0526-beautiful-arrangement) |
+| [1096-brace-expansion-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankiitsingh21/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1094-car-pooling](https://github.com/Ankiitsingh21/leetcode/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Ankiitsingh21/leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Ankiitsingh21/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Ankiitsingh21/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
 | [0959-regions-cut-by-slashes](https://github.com/Ankiitsingh21/leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [1096-brace-expansion-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankiitsingh21/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ankiitsingh21/leetcode/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ankiitsingh21/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankiitsingh21/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankiitsingh21/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankiitsingh21/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ankiitsingh21/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -963,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Ankiitsingh21/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankiitsingh21/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankiitsingh21/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
