@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Ankiitsingh21/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ankiitsingh21/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankiitsingh21/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankiitsingh21/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ankiitsingh21/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ankiitsingh21/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ankiitsingh21/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2401-longest-nice-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/Ankiitsingh21/leetcode/tree/master/2191-sort-the-jumbled-numbers) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ankiitsingh21/leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ankiitsingh21/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankiitsingh21/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Ankiitsingh21/leetcode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ankiitsingh21/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/Ankiitsingh21/leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankiitsingh21/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ankiitsingh21/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ankiitsingh21/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Ankiitsingh21/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankiitsingh21/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
