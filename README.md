@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankiitsingh21/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankiitsingh21/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankiitsingh21/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ankiitsingh21/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankiitsingh21/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ankiitsingh21/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankiitsingh21/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankiitsingh21/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankiitsingh21/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankiitsingh21/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Ankiitsingh21/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ankiitsingh21/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankiitsingh21/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankiitsingh21/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Ankiitsingh21/leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Ankiitsingh21/leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankiitsingh21/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
