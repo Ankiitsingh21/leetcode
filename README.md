@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankiitsingh21/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ankiitsingh21/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankiitsingh21/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3161-block-placement-queries) |
 | [3169-count-days-without-meetings](https://github.com/Ankiitsingh21/leetcode/tree/master/3169-count-days-without-meetings) |
