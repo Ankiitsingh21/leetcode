@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ankiitsingh21/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankiitsingh21/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankiitsingh21/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/Ankiitsingh21/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ankiitsingh21/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Ankiitsingh21/leetcode/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Ankiitsingh21/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3360-stone-removal-game](https://github.com/Ankiitsingh21/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankiitsingh21/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ankiitsingh21/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ankiitsingh21/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
